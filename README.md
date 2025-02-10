@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# assiginment
-=======
 # Help
 
 ## Calculate Total Reward Points
@@ -24,4 +21,4 @@ curl -X POST http://localhost:8080/api/rewards/monthly \
      {"customerId": "C1", "amount": 55, "transactionDate": "2025-02-12"},
      {"customerId": "C3", "amount": 90, "transactionDate": "2025-02-17"},
      {"customerId": "C2", "amount": 110, "transactionDate": "2025-03-04"}]'
->>>>>>> 4a7208d (Create README.md)
+
